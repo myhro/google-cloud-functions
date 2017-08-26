@@ -1,0 +1,8 @@
+{
+    "devDependencies": {
+        "@google-cloud/functions-emulator": "latest"
+    },
+    "scripts": {
+        "functions": "./node_modules/@google-cloud/functions-emulator/bin/functions"
+    }
+}
